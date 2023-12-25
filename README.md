@@ -1,5 +1,5 @@
 
-# Bem-vindo(a) ao meu perfil! 👋
+# Olá, prazer sou Karoline!👋
 
 ## Sobre Mim
 Sou uma entusiasta do desenvolvimento front-end com paixão por transformar ideias em interfaces interativas e intuitivas. Com uma sólida base em HTML, CSS e JavaScript, estou sempre buscando aprender e aprimorar minhas habilidades em frameworks modernos, como React.
