@@ -7,6 +7,7 @@ Sou um entusiasta do front-end apaixonado por transformar ideias criativas em ex
 ## Habilidades 
 - 💻 HTML5, CSS3, JavaScript
 - ⚛️ React.js
+- ⚛️ Next.js
 - 🔄 Git
 
 ## Experiência Profissional
