@@ -11,7 +11,8 @@ Sou um entusiasta do front-end apaixonado por transformar ideias criativas em ex
 - 🔄 Git
 
 ## Experiência Profissional
-- 👩‍💻 HomeHelp - Desenvolvedora Front-end (10/2023 - Presente)
+- 👩‍💻 HomeHelp - Desenvolvedora Front-end (2023)
+- 👩‍💻 Hannd Solutions - DEsenvolvedora Front-end (atual)
 
 ## Educação
 - 🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas [Faesa]
