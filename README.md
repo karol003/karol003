@@ -12,14 +12,10 @@ Sou Programadora front-end apaixonado por transformar ideias criativas em experi
 - 🌅 Tailwind
 
 ## Experiência Profissional
-- 👩‍💻 HomeHelp - Desenvolvedora Front-end (2023)
 - 👩‍💻 Hannd Solutions - DEsenvolvedora Front-end (atual)
 
 ## Educação
 - 🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas [Faesa]
 
-## Conecte-se Comigo
-- 💼 [LinkedIn](https://www.linkedin.com/in/karoline-costa-980644281/)
-- 📝 [Blog Pessoal](https://kcbdev.vercel.app/#)
 
 Estou sempre aberta a colaborações e oportunidades emocionantes! 🚀
